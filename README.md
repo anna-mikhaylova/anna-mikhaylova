@@ -1,6 +1,5 @@
 ## Hi, I’m Anna ##
 - ❤️‍🔥 I’m interested in QA Engineering
-- 🌱 I’m currently learning on Vadim Ksendzov course
 - 👀 I’m looking for a job as a Junior QA Engineer
 - 📫 Reach me via [Telegram](https://t.me/anny_chal) , [Email](mailto:anny.mihailova@gmail.com)
 - 🔗 My [LinkedIn](www.linkedin.com/in/mikhaylovaanna)
