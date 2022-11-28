@@ -1,10 +1,8 @@
 ## Hi, I’m Anna ##
-- ❤️‍🔥 I’m interested in QA Engineering
-- 👀 I’m looking for a job as a Junior QA Engineer
+
 - 📫 Reach me via [Telegram](https://t.me/anny_chal) , [Email](mailto:anny.mihailova@gmail.com)
 - 🔗 My [LinkedIn](www.linkedin.com/in/mikhaylovaanna)
 
-- 🛫 My [learning progress](https://github.com/anna-mikhaylova/Homeworks.git)
 
 <!---
 anna-mikhaylova/anna-mikhaylova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
